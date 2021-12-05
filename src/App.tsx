@@ -1,7 +1,7 @@
 import { Suspense, lazy } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Store from './redux/store';
-import './App.css';
+import './App.scss';
 
 const List = lazy(() => import('./pages'));
 
