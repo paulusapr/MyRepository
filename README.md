@@ -13,5 +13,5 @@ hit our application in a browser at http://localhost:3000/
 3. [Eslint](https://eslint.org/) JavaScript codes linter.
 
 <h4 align="center">
-    <a href="https://myplanets-paulusapr.vercel.app/">Live Demo</a>
+    <a href="https://my-repository-gtqaebyw1-paulusapr.vercel.app/">Live Demo</a>
 </h4>
